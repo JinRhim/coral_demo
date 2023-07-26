@@ -1,0 +1,7 @@
+hand
+apple
+banana
+can
+marker
+spoon
+toothpaste
